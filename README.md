@@ -50,3 +50,72 @@
 ![Screenshot (400)](https://user-images.githubusercontent.com/81568032/121798010-021e7d00-cc4e-11eb-8388-817c901971a9.png)
 
 ![Screenshot (401)](https://user-images.githubusercontent.com/81568032/121798013-0480d700-cc4e-11eb-9628-4dccad907c78.png)
+
+# Melanjutkan praktikum 11 yaitu saya mempraktikkan praktikum 12
+# 1. Pertama membuat data base dan tabel di database localhost kita![image](https://user-images.githubusercontent.com/81579730/123541379-7983fe80-d76e-11eb-9841-dbde4146f6d9.png)![image](https://user-images.githubusercontent.com/81579730/123541412-b05a1480-d76e-11eb-976c-8da18c50acf7.png)
+# 2. Membuat file artikelmodel.php, Controler artikel.php dan index.php 
+![Screenshot (433)](https://user-images.githubusercontent.com/81568032/122779637-41953b00-d2d8-11eb-84da-3f32c98c9478.png)
+
+![Screenshot (434)](https://user-images.githubusercontent.com/81568032/122779786-6ab5cb80-d2d8-11eb-9c42-6345856f0388.png)
+
+![Screenshot (435)](https://user-images.githubusercontent.com/81568032/122779814-743f3380-d2d8-11eb-9629-28811f6229f9.png)
+
+![2](https://user-images.githubusercontent.com/81568032/122780043-a8b2ef80-d2d8-11eb-9c07-4efb7c147b63.png)
+# 3. Menambahkan data pada data base
+
+<img width="943" alt="table" src="https://user-images.githubusercontent.com/81568032/122780174-cf712600-d2d8-11eb-98c4-305b789fa008.png">
+
+![Screenshot (437)](https://user-images.githubusercontent.com/81568032/122780602-31319000-d2d9-11eb-9c75-70a4e49bf18e.png)
+# 4. Menambahkan Controller detail artikel, view detail dan membuat routing untuk detail
+
+![Screenshot (438)](https://user-images.githubusercontent.com/81568032/122780646-3d1d5200-d2d9-11eb-9739-3c8b4dfcc2a5.png)
+
+![Screenshot (439)](https://user-images.githubusercontent.com/81568032/122780688-46a6ba00-d2d9-11eb-837e-8b9c2b60fb1b.png)
+
+![Screenshot (440)](https://user-images.githubusercontent.com/81568032/122780722-4dcdc800-d2d9-11eb-9327-c44f4752c634.png)
+
+![Screenshot (441)](https://user-images.githubusercontent.com/81568032/122780780-5b834d80-d2d9-11eb-9203-c6c2cd956251.png)
+
+# 5. membuat menu admin lalu menambahkan controller admin di file artikel.php, membuat view admin_index dan routing untuk file admin
+
+![Screenshot (442)](https://user-images.githubusercontent.com/81568032/122781103-b026c880-d2d9-11eb-93cd-862b49eee322.png)
+
+![Screenshot (443)](https://user-images.githubusercontent.com/81568032/122781167-bfa61180-d2d9-11eb-9d86-205c8dece500.png)
+
+![Screenshot (444)](https://user-images.githubusercontent.com/81568032/122781192-c59bf280-d2d9-11eb-9011-43ed336e6653.png)
+
+![image](https://user-images.githubusercontent.com/81579730/123541570-6c1b4400-d76f-11eb-809d-51772f62e25c.png)
+# 6. Menambahkan data artikel dengan nama fie 'Add' lalu menambahkan functio controller dan view form_addd
+
+![Screenshot (446)](https://user-images.githubusercontent.com/81568032/122781682-43f89480-d2da-11eb-9aab-a92c30ad7a1e.png)
+
+![Screenshot (448)](https://user-images.githubusercontent.com/81568032/122781739-507ced00-d2da-11eb-9f31-ad4ac904896a.png)
+
+![Screenshot (447)](https://user-images.githubusfieercontent.com/81568032/122781815-612d6300-d2da-11eb-85fc-560fc1aa15a6.png)
+
+# 7. Menambahkan file 'edit' lalu menambahkan function controller 'edit' dan membuat view form_edit
+
+![Screenshot (450)](https://user-images.githubusercontent.com/81568032/122782174-b2d5ed80-d2da-11eb-8259-cdcdc25b18ed.png)
+
+![Screenshot (451)](https://user-images.githubusercontent.com/81568032/122782200-b9646500-d2da-11eb-98f0-7af612170452.png)
+
+![image](https://user-images.githubusercontent.com/81579730/123541622-ab499500-d76f-11eb-9b8e-59f41da8452d.png)
+
+# 8. Menambahkan file untuk 'delete' lalu membuat function delete
+
+![Screenshot (453)](https://user-images.githubusercontent.com/81568032/122782444-efa1e480-d2da-11eb-8b13-d3ebf1fc77f7.png)
+
+![image](https://user-images.githubusercontent.com/81579730/123541675-e5b33200-d76f-11eb-8fc0-4d8c074ecc64.png)
+# LALU SAYA DI SINI MENAMBAHKAN DI HEADER "TAMBAH ARTIKEL" AGAR BISA BERFUNGSI UNTUK MENAMBAHKAN ARTIKEL BARU
+
+# => MERUBAH BASE URL DI FILE HEADER.PHP DI NAV 'TAMBAH ARTIKEL' AGAR BISA MENAMBAHKAN ARTIKEL BARU
+
+![Screenshot (455)](https://user-images.githubusercontent.com/81568032/122784397-a3f03a80-d2dc-11eb-94f5-990c1f5f2d7a.png)
+
+![image](https://user-images.githubusercontent.com/81579730/123541728-2dd25480-d770-11eb-8e9b-44ef5294defa.png)
+
+![image](https://user-images.githubusercontent.com/81579730/123541767-65d99780-d770-11eb-8f2d-b87657b3bf60.png)
+
+
+
+
